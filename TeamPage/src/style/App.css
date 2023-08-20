@@ -1,0 +1,263 @@
+
+:root{
+
+    --font-title:'PT Serif', serif;
+    --font-poppins: 'Poppins', sans-serif;
+}
+
+h1{
+    width: 278px;
+    height:47px;
+
+    position: relative;
+    top: 110px;
+    left:243px;
+
+    font-family: var(--font-title);
+    font-size: 32px;
+    line-height:47.7px;
+}
+h2{
+    width: 117px;
+    height:27px;
+
+    position: absolute;
+    top: 110px;
+    left: 736px;
+
+    font-family: var(--font-poppins);
+    font-weight: 600;
+    font-size:18px;
+    line-height: 27px;
+}
+p{
+    width: 439px;
+    height: 87px;
+    position: absolute;
+    top: 147px;
+    left: 736px;
+
+    font-family: var(--font-poppins);
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    font-family: var(--font-h2);
+    font-size: 18px;
+}
+img{
+    width: 238px;
+    height: 341px;
+    position: absolute;
+}
+
+.peaple1{
+    top: 330px;
+    left: 240px;
+}
+.peaple2{
+    top: 429px;
+    left: 571px;
+}
+.peaple3{
+    top: 330px;
+    left: 901px;
+}
+.peaple4{
+    top: 845px;
+    left: 241px;
+}
+.peaple5{
+    top: 944px;
+    left: 571px;
+}
+.peaple6{
+    top: 845px;
+    left: 902px;
+}
+.name1{
+    width: 117px;
+    height: 27px;
+    top: 686px;
+    left: 240px;
+
+
+    font-family: var(--font-poppins);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.office1{
+
+    width: 102.00000000000009px;
+    height: 16.000000000000014px;
+    top: 375px;
+    left: 444px;
+    transform: rotate(90deg);
+
+    font-family: var(--font-title);
+    font-size: 12px;
+}
+.name2{
+    width: 128px;
+    height: 27px;
+    top: 791px;
+    left: 571px;
+    
+    
+    font-family: var(--font-poppins);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;  
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.office2{
+    transform: rotate(90deg);
+
+    width: 85.00000000000007px;
+    height: 16.000000000000014px;
+    top: 463px;
+    left: 780px;
+
+
+    font-family: var(--font-title);
+    font-size: 12px;
+    font-weight: 400;  
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.name3{
+
+    width: 70px;
+    height: 27px;
+    top: 686px;
+    left: 901px;
+
+    font-family: var(--font-poppins);
+    font-size: 18px;
+    font-weight: 600;   
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.office3{
+
+
+    width: 65.00000000000006px;
+    height: 16.000000000000014px;
+    top: 355px;
+    left: 1120px;
+    
+    transform: rotate(90deg) ;
+
+    font-family: var(--font-title);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.name4{
+    width: 86px;
+    height: 27px;
+    top: 1201px;
+    left: 241px;
+    
+    font-family: var(--font-poppins);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.office4{
+    width: 77.00000000000007px;
+    height: 16.000000000000014px;
+    top: 875px;
+    left: 455px;
+    transform: rotate(90deg);
+
+
+    font-family: var(--font-title);
+    font-size: 12px;    
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.name5{
+
+    width: 124px;
+    height: 27px;
+    top: 1306px;
+    left: 571px;
+
+    font-family: var(--font-poppins);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.office5{
+    transform: rotate(90deg);
+
+    width: 68.00000000000006px;
+    height: 16.000000000000014px ;   
+    top: 968px;
+    left: 790px;
+
+    font-family: var(--font-poppins);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.name6{
+    width: 92px;
+    height: 27px;
+    top: 1201px;
+    left: 902px;
+
+    font-family: var(--font-poppins);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.office6{
+    width: 76.00000000000007px;
+    height: 16.000000000000014px;
+    top: 876px;
+    left: 1120px;
+    transform:Rotate(90deg);
+
+
+
+    font-family: PT Serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
