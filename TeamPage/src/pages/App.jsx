@@ -6,12 +6,13 @@ import img3 from '../images/photo3.png'
 import img4 from '../images/photo4.png'
 import img5 from '../images/photo5.png'
 import img6 from '../images/photo6.png'
+import {Div} from '../components/mobile'
 
 function App() {
 
 
   return (
-   <div>
+   <Div>
 
     <header >
       <h1>The creative crew</h1>
@@ -46,14 +47,12 @@ function App() {
         <p className='name6'>Stan John</p>
         <p className='office6'>DEVELOPER</p>
       </section>
-         
-        
         
       </main>        
 
       <footer>created by - NattanJunior</footer>
 
-   </div>
+   </Div>
   )
 }
 
